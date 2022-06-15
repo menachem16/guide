@@ -1,0 +1,28 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="1" tvg-name="" tvg-logo="http://images2.imagebam.com/2a/e5/7c/f061ac784878033.jpg" group-title="עידן+",ch 11 כאן
+https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.imagebam.com/3b/9c/29/accd2c784878043.jpg" group-title="עידן+",ch 12 קשת
+https://iptv--iptv.repl.co/Hebrew/keshet_12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 13 רשת
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="עידן+",ch 26
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/aa/8b/9f/fe51a9784877423.jpg" group-title="עידן+",ch 20 מורשת
+https://splittv.ch20-cdnwiz.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/01/9b/25/afe543833363533.jpg" group-title="עידן+",ch 21 ערוץ הקניות
+http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/chunklist_w2043660694_b2128000.m3u8?ttl=1524643697&cdn_token=5a6c4f1270440ae72118c8ae16c58de4|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/600.3.18 (KHTML, like Gecko) Version/8.0.3 Safari/600.3.18
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images2.imagebam.com/de/cc/c9/4c7f3e788799523.png" group-title="עידן+",ch 23 חינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/ec/75/53/eb02a3784877443.jpg" group-title="עידן+",ch 24
+http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1521305784~acl=%2f*~data=hdntl~hmac=0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea|User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/43.0.2357.130 Chrome/43.0.2357.130 Safari/537.36&Cookie=hdntl%3Dexp%3D1521305784%7Eacl%3D%252f%2A%7Edata%3Dhdntl%7Ehmac%3D0b04f206fb1bb2004ae6ab7c02a951d97bfdd220397c0516bb6057206493c8ea;_alid_%3DYrk%2B1GiREjTrEWpIW8Vc7Q%3D%3D
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thumbs2.imagebam.com/d7/d1/66/09af58859804694.jpg" group-title="עידן+",ch 26 האח הגדול
+https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8
